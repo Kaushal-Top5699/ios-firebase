@@ -4,7 +4,9 @@
 //
 //  Created by < this_is_kaushal__/> on 12/29/17.
 //  Copyright © 2017 < this_is_kaushal__/>. All rights reserved.
-//
+
+/*  This project also contains a TableView if the items are pushed to database by creating childByAutoID() method before
+  setValue("Your Value"). If you are familier with Android Development then this will be easily understood by you. */
 
 import UIKit
 import FirebaseDatabase
